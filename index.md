@@ -32,8 +32,8 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
+The First milestone was assembling the robotic arm and applying code in order to be controlled using the 4 potentiometers. 
+- The Robotic arm consists of 4 servo motors that allows the arm to be moved in almost all directions. One located on the base of the arm for direction changes, one located above the base for adjusting the hieght of the overall arm, one behind the claw for adjusting the specific location of the claw, and finally the one that controls the opening/closing of the claw. In terms of mechanical probelms and obstacles I faced was getting the servos to move properly, at first none of the 4 servos moved correctly. I looked in to specific portions of the code looking for any mistakes or changes in numbers but I ultimately found the solution in the build itself. By reinserting the servos in different angles I was able to fix the degree and directions servos moved in. Through playing with the functional arm I found two problems I wated to fix in the future milestones. First one being changing the claw, the original claw only allowed certain shapes to be picked up. Since claws have straight surface it 
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
